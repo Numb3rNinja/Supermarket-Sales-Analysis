@@ -54,15 +54,25 @@ Weekly trends indicated that **Fridays** consistently generated the highest dail
 Hourly patterns showed that the bulk of transactions occured between **10:00 AM and 8:00 PM**, confirming this as the optimal window for promotional activities an dstore staffing. 
 Overall, The time-based analysis emphasized key periods where marketing and operational efforts should be intensified.
 
-![Image](https://github.com/user-attachments/assets/f7e9ba14-430a-4202-9184-3482080b5021)
-![Image](https://github.com/user-attachments/assets/28ed79bb-e1a5-41c3-86eb-e63a0b61aacb)
-![Image](https://github.com/user-attachments/assets/36d9de26-a9ab-43ad-a5c8-44a9cc55fa62)
+**Monthly Sales** ![Image](https://github.com/user-attachments/assets/f7e9ba14-430a-4202-9184-3482080b5021)
+**Daily Sales** ![Image](https://github.com/user-attachments/assets/28ed79bb-e1a5-41c3-86eb-e63a0b61aacb)
+**Hourly Sales** ![Image](https://github.com/user-attachments/assets/36d9de26-a9ab-43ad-a5c8-44a9cc55fa62)
 
 
 ### Store Location Performance
 Sales were relatively evenly distributed across the five key store locations, each contributing between 18.86% and 21.26% of total sales revenue. Houston emerged as the top-performing location with $48.72K (21.26% of total sales), likely benefiting from higher customer traffic or localized promotions. New York and Phoenix followed closely, each contributing around 20%. Los Angeles, while still performing strongly, showed a slight lag with $43.23K (18.86%), suggesting a potential opportunity for deeper market engagement strategies.
 The overall balanced distribution indicates a well-managed regional strategy but also higlights specific cities where targeted iitiatives could drive additional growth.
 
+![Image](https://github.com/user-attachments/assets/5c823dc5-1376-4858-a771-260d56f8df9f)
+
+
+
+### Customer Frequency and Behavior
+The customer behavior analysis revealed a heavy reliance on one-time customers, who accounted for 94.28% of all sales ($216.07K).
+Regular customers represented just 3.56% ($8.15K) of sales, and occasional customers contributed only 2.16% ($4.95K).
+This extremely low repeat customer rate suggests a significant opportunity for customer retention initiatives such as loyalty programs or personalized marketing.
+Interestingly, occasional customers displayed slightly higher average transaction values compared to regulars, hinting that infrequent but targeted buyers might be a profitable segment if properly nurtured.
+Across customer types, there was no significant variation in payment method preference, meaning loyalty programs could focus more on experiential benefits rather than payment incentives.
 
 
 
