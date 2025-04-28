@@ -55,9 +55,14 @@ Hourly patterns showed that the bulk of transactions occured between **10:00 AM 
 Overall, The time-based analysis emphasized key periods where marketing and operational efforts should be intensified.
 
 ![Image](https://github.com/user-attachments/assets/f7e9ba14-430a-4202-9184-3482080b5021)
+![Image](https://github.com/user-attachments/assets/28ed79bb-e1a5-41c3-86eb-e63a0b61aacb)
+![Image](https://github.com/user-attachments/assets/36d9de26-a9ab-43ad-a5c8-44a9cc55fa62)
 
 
-                            
+### Store Location Performance
+Sales were relatively evenly distributed across the five key store locations, each contributing between 18.86% and 21.26% of total sales revenue. Houston emerged as the top-performing location with $48.72K (21.26% of total sales), likely benefiting from higher customer traffic or localized promotions. New York and Phoenix followed closely, each contributing around 20%. Los Angeles, while still performing strongly, showed a slight lag with $43.23K (18.86%), suggesting a potential opportunity for deeper market engagement strategies.
+The overall balanced distribution indicates a well-managed regional strategy but also higlights specific cities where targeted iitiatives could drive additional growth.
+
 
 
 
