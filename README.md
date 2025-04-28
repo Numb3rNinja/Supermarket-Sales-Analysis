@@ -54,7 +54,10 @@ Weekly trends indicated that **Fridays** consistently generated the highest dail
 Hourly patterns showed that the bulk of transactions occured between **10:00 AM and 8:00 PM**, confirming this as the optimal window for promotional activities an dstore staffing. 
 Overall, The time-based analysis emphasized key periods where marketing and operational efforts should be intensified.
 
+![Image](https://github.com/user-attachments/assets/f7e9ba14-430a-4202-9184-3482080b5021)
 
+
+                            
 
 
 
