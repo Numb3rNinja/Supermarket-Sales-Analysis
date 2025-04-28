@@ -46,6 +46,14 @@ Sales trends revealed clear seasonal peaks, with September 2024 and March 2025 s
 
 ![Image](https://github.com/user-attachments/assets/d827453e-8898-49eb-a742-f557df3524d7)
 
+## Insights Deep Dive
+
+### Sales Trends Over Time
+Sales analysis over the 12-month period revealed distinct seasonal patterns. **September 2024** was the highest-grossing month, with sales reaching **$21K**, cinciding with back-to-school and early fall seasonal shopping. Sales also surged in **November 2024** and **March 2025**, aligning with holiday and spring break periods. Conversly, **July 2024** experienced the lowest sales volume (**7.6K**), potentially due to summer vacations and reduced in-store activity.
+Weekly trends indicated that **Fridays** consistently generated the highest daily sales (**$38K** cumulative), suggesting that customers prefer stocking up before weekends.
+Hourly patterns showed that the bulk of transactions occured between **10:00 AM and 8:00 PM**, confirming this as the optimal window for promotional activities an dstore staffing. 
+Overall, The time-based analysis emphasized key periods where marketing and operational efforts should be intensified.
+
 
 
 
