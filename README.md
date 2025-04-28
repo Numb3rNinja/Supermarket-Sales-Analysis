@@ -44,7 +44,7 @@ Table columns included: TransactionID, TransactionDate, TransactionTime, Custome
 ## Overview of Findings
 Sales trends revealed clear seasonal peaks, with September 2024 and March 2025 standing out as the highest-performing months, and Fridays consistently generated the most sales each week. Store performance analysis showed that while sales were evenly distributed across locations, Houston slightly outperformed other cities, indicating strong regional engagement. Customer behavior isnsights highlighted a heavy reliance on one-time shoppers, with minimal contributions from regular customers, underscroring a significant opportunity for loyalty initiatives. Product and category analysis demonstrated that a small set of items, particularly in Personal Care and Bakery, drove a large proportion of revenue, suggesting that strategic inventory and promotional focus on top categories could further boost overall sales.
 
-
+![Image](https://github.com/user-attachments/assets/d827453e-8898-49eb-a742-f557df3524d7)
 
 
 
