@@ -74,5 +74,12 @@ This extremely low repeat customer rate suggests a significant opportunity for c
 Interestingly, occasional customers displayed slightly higher average transaction values compared to regulars, hinting that infrequent but targeted buyers might be a profitable segment if properly nurtured.
 Across customer types, there was no significant variation in payment method preference, meaning loyalty programs could focus more on experiential benefits rather than payment incentives.
 
+![Image](https://github.com/user-attachments/assets/2eb397e0-d232-47f1-bb5e-5ad55e9abbd4)
+
+
+### Product and Category Sales Analysis
+
+Sales were highly concentrated among a small group of products and categories. Apples led individual product sales with $17.2K, followed by Bread ($10.7K) and Detergent ($7.5K), indicating strong customer preference for essential grocery and household items.
+At the category level, Personal Care products generated $14.6K in sales, closely followed by Bakery at $13.9K.Beverages ($9.7K) and Dairy ($8.3K) also performed well, while categories like Meat ($3.8K) and Produce ($6.6K) lagged behind.This concentration highlights opportunities to boost underperforming categories through promotions or remerchandising while capitalizing on the strength of the top categories with expanded inventory or bundled offers.Focusing marketing efforts on top-selling products could yield quick wins, while strategic initiatives could revitalize slower-moving inventory categories.
 
 
