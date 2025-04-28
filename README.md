@@ -82,4 +82,8 @@ Across customer types, there was no significant variation in payment method pref
 Sales were highly concentrated among a small group of products and categories. Apples led individual product sales with $17.2K, followed by Bread ($10.7K) and Detergent ($7.5K), indicating strong customer preference for essential grocery and household items.
 At the category level, Personal Care products generated $14.6K in sales, closely followed by Bakery at $13.9K.Beverages ($9.7K) and Dairy ($8.3K) also performed well, while categories like Meat ($3.8K) and Produce ($6.6K) lagged behind.This concentration highlights opportunities to boost underperforming categories through promotions or remerchandising while capitalizing on the strength of the top categories with expanded inventory or bundled offers.Focusing marketing efforts on top-selling products could yield quick wins, while strategic initiatives could revitalize slower-moving inventory categories.
 
+![Image](https://github.com/user-attachments/assets/45cb10df-578c-4f5c-9925-51bf074b9ffb)   ![Image](https://github.com/user-attachments/assets/5d3067f2-bbfa-4160-b142-bd88a1022fc5)
+
+
+
 
